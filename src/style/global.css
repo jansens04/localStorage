@@ -1,0 +1,16 @@
+/*? global clearing */
+*,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dark-mode {
+  background: #000;
+  color: #fff;
+}
+
+a {
+  color: inherit;
+}
